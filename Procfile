@@ -1,1 +1,1 @@
-worker: python3 -m EsproMention
+worker: python3 -m bash start
