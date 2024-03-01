@@ -3,7 +3,7 @@
     "description": "EsproMention Is Telegram Advanced Bot To Mention All Members In Group.",
     "logo": "https://telegra.ph/file/cb76d7f5dae14ec1e11c7.jpg",
     "env": {
-        "TOKEN": {
+        "BOT_TOKEN": {
             "description": "Enter bot token."
         },
         "APP_ID": {
